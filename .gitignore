@@ -10631,3 +10631,4 @@ venv/Scripts/pip3.12.exe
 venv/Scripts/pip3.exe
 venv/Scripts/python.exe
 venv/Scripts/pythonw.exe
+venv/Lib/site-packages/numpy/f2py/tests/__pycache__/test_block_docstring.cpython-312.pyc
