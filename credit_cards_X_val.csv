@@ -1,0 +1,5 @@
+card_name,issuer_bank,card_type,annual_fee,joining_fee,grace_period,cashback_percentage,sign-up_bonus,categories_for_rewards,issuer_bank_encoded,card_type_encoded,cashback_percentage_numeric,annual_fee_scaled,joining_fee_scaled
+Idbi Bank Royale Signature Credit Card,IDBI Bank,Premium,2999.0,2999.0,45 days,,Complimentary Club Vistara Silver membership,"Travel, Lifestyle",10,0,0.0,0.23992,0.23992
+Sbi Elite Credit Card,SBI,Premium,4999.0,0.0,21 days,,Complimentary club memberships,Travel,15,0,0.0,0.39992,0.0
+Hsbc Cashback Credit Card,HSBC,Regular,750.0,750.0,45 days,"1.5% on all spends, 10% on dining",,"Daily Spending, Dining",8,1,0.0,0.06,0.06
+Sbi Card Prime,SBI,Premium,2999.0,2999.0,21 days,,"e-Gift Voucher worth ?3,000","Dining, Entertainment, Shopping",15,0,0.0,0.23992,0.23992

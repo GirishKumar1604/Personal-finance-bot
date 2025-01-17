@@ -1,0 +1,6 @@
+card_name,issuer_bank,card_type,annual_fee,joining_fee,grace_period,cashback_percentage,sign-up_bonus,categories_for_rewards,issuer_bank_encoded,card_type_encoded,cashback_percentage_numeric,annual_fee_scaled,joining_fee_scaled
+Bank Of Baroda Premier Credit Card,Bank of Baroda,Premium,1000.0,1000.0,50 days,1% on all spends,"2,000 reward points on joining",Daily Spending,3,0,0.0,0.08,0.08
+American Express Platinum Travel Card,American Express,Super Premium,3500.0,3500.0,45 days,,"10,000 Membership Rewards Points","Travel, Lifestyle",1,2,0.0,0.28,0.28
+Indianoil Axis Bank Premium Credit Card,Axis Bank,Regular,0.0,0.0,30 days,,,Fuel,2,1,0.0,0.0,0.0
+Citi Rewards Credit Card,Citibank,Regular,1000.0,1000.0,30 days,,"1,000 reward points on joining","Shopping, Dining",4,1,0.0,0.08,0.08
+Hdfc Moneyback Credit Card,HDFC Bank,Regular,500.0,500.0,50 days,,,Daily Spending,7,1,0.0,0.04,0.04

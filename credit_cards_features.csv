@@ -1,0 +1,31 @@
+card_name,issuer_bank,card_type,annual_fee,joining_fee,grace_period,cashback_percentage,sign-up_bonus,reward_points,categories_for_rewards,issuer_bank_encoded,card_type_encoded,cashback_percentage_numeric,annual_fee_scaled,joining_fee_scaled
+Hdfc Millennia Credit Card,HDFC Bank,Regular,1000.0,1000.0,50 days,5% on online spends,"1,000 CashPoints on joining fee payment",1 CashPoint for every ₹150 spent,Online Shopping,7,1,0.0,0.08,0.08
+Icici Amazon Pay Credit Card,ICICI Bank,Regular,0.0,0.0,50 days,5% on Amazon (Prime),,1 Reward Point = ₹1,Online Shopping,9,1,0.0,0.0,0.0
+Sbi Simplyclick Credit Card,SBI,Regular,0.0,0.0,21 days,,Amazon gift voucher worth ?500,10x points on online shopping,Online Shopping,15,1,0.0,0.0,0.0
+Axis Bank Ace Credit Card,Axis Bank,Regular,0.0,0.0,45 days,5% on bill payments,,1.5% cashback on all spends,"Daily Spending, Utilities",2,1,0.0,0.0,0.0
+Standard Chartered Manhattan Platinum,Standard Chartered,Premium,999.0,999.0,20 days,5% at supermarkets,"BookMyShow vouchers worth ?2,000",3x points for all other spends,"Lifestyle, Dining",16,0,0.0,0.07992,0.07992
+Hdfc Regalia Credit Card,HDFC Bank,Premium,0.0,0.0,50 days,,"Bonus of up to 15,000 points",4 Reward Points for every ₹150 spent,"Travel, Dining",7,0,0.0,0.0,0.0
+Citibank Premiermiles Credit Card,Citibank,Premium,3000.0,3000.0,30 days,,,Earn miles on every spend,Travel,4,0,0.0,0.24000000000000002,0.24000000000000002
+Icici Sapphiro Credit Card,ICICI Bank,Premium,3500.0,0.0,50 days,,,Up to 2x points on dining,Lifestyle,9,0,0.0,0.28,0.0
+Sbi Elite Credit Card,SBI,Premium,4999.0,0.0,21 days,,Complimentary club memberships,High reward points on travel,Travel,15,0,0.0,0.39992000000000005,0.0
+Indianoil Axis Bank Premium Credit Card,Axis Bank,Regular,0.0,0.0,30 days,,,EDGE points on fuel purchases,Fuel,2,1,0.0,0.0,0.0
+Bpcl Sbi Card Octane,SBI,Regular,0.0,0.0,30 days,,Up to ?250 off on fuel transactions,Up to 25x rewards on fuel purchases,Fuel,15,1,0.0,0.0,0.0
+Idfc First Power Plus Credit Card,IDFC FIRST Bank,Regular,0.0,0.0,30 days,,,Reward points on fuel transactions,Fuel,11,1,0.0,0.0,0.0
+Hdfc Moneyback Credit Card,HDFC Bank,Regular,500.0,500.0,50 days,,,Earn reward points for every spend,Daily Spending,7,1,0.0,0.04,0.04
+Kotak Royale Signature Credit Card,Kotak Mahindra Bank,Premium,999.0,0.0,30 days,,,High rewards on dining and shopping,-,13,0,0.0,0.07992,0.0
+Axis Bank Magnus Credit Card,Axis Bank,Premium,12500.0,12500.0,45 days,5% on Google Pay transactions,Complimentary airport lounge access,12 EDGE Rewards Points per ₹200 spent,"Travel, Dining",2,0,0.0,1.0,1.0
+American Express Platinum Travel Card,American Express,Super Premium,3500.0,3500.0,45 days,,"10,000 Membership Rewards Points",1 point per ₹40 spent,"Travel, Lifestyle",1,2,0.0,0.28,0.28
+Yes Bank First Preferred Credit Card,Yes Bank,Premium,999.0,999.0,48 days,5% on online shopping,500 reward points on activation,4 reward points per ₹200 spent,"Shopping, Dining",18,0,0.0,0.07992,0.07992
+Hsbc Cashback Credit Card,HSBC,Regular,750.0,750.0,45 days,"1.5% on all spends, 10% on dining",,No Rewards,"Daily Spending, Dining",8,1,0.0,0.060000000000000005,0.060000000000000005
+Kotak 811 Dreamdifferent Credit Card,Kotak Mahindra Bank,Regular,0.0,0.0,30 days,1% on all spends,500 reward points on card activation,2 reward points per ₹150 spent,Daily Spending,13,1,0.0,0.0,0.0
+Indusind Bank Platinum Aura Edge,IndusInd Bank,Premium,7500.0,7500.0,45 days,,"1,000 reward points on card activation",1.5 points per ₹100 spent,"Travel, Lifestyle",12,0,0.0,0.6000000000000001,0.6000000000000001
+Rbl Bank World Safari Credit Card,RBL Bank,Premium,3000.0,3000.0,30 days,,"4,000 reward points on joining",1 Travel Reward Point per ₹100 spent,Travel,14,0,0.0,0.24000000000000002,0.24000000000000002
+Dbs Vistara Infinite Credit Card,DBS Bank,Super Premium,10000.0,10000.0,48 days,,"10,000 Vistara Points on activation",6 Vistara Points per ₹200 spent,Travel,5,2,0.0,0.8,0.8
+Au Small Finance Bank Zenith+ Card,AU Small Finance Bank,Premium,4999.0,4999.0,50 days,5% on entertainment,"1,000 reward points on card activation",10 reward points per ₹100 spent on dining & entertainment,"Entertainment, Dining",0,0,0.0,0.39992000000000005,0.39992000000000005
+Idbi Bank Royale Signature Credit Card,IDBI Bank,Premium,2999.0,2999.0,45 days,,Complimentary Club Vistara Silver membership,2 reward points per ₹100 spent,"Travel, Lifestyle",10,0,0.0,0.23992000000000002,0.23992000000000002
+Bank Of Baroda Premier Credit Card,Bank of Baroda,Premium,1000.0,1000.0,50 days,1% on all spends,"2,000 reward points on joining",2 reward points per ₹100 spent,Daily Spending,3,0,0.0,0.08,0.08
+Federal Bank Celesta Credit Card,Federal Bank,Premium,750.0,750.0,45 days,5% on online shopping,"1,000 reward points on joining",3 reward points per ₹100 spent,Online Shopping,6,0,0.0,0.060000000000000005,0.060000000000000005
+Kotak White Signature Credit Card,Kotak Mahindra Bank,Premium,2500.0,2500.0,30 days,,"1,000 reward points on activation",2 reward points per ₹150 spent,"Lifestyle, Shopping",13,0,0.0,0.2,0.2
+Citi Rewards Credit Card,Citibank,Regular,1000.0,1000.0,30 days,,"1,000 reward points on joining",10 reward points per ₹125 on online & retail purchases,"Shopping, Dining",4,1,0.0,0.08,0.08
+Sbi Card Prime,SBI,Premium,2999.0,2999.0,21 days,,"e-Gift Voucher worth ?3,000","10 reward points per ₹100 on dining, movies, and department stores","Dining, Entertainment, Shopping",15,0,0.0,0.23992000000000002,0.23992000000000002
+Unknown Card,Unknown Bank,Regular,0.0,0.0,,,,No Rewards,Miscellaneous,17,1,0.0,0.0,0.0

@@ -1,0 +1,22 @@
+card_name,issuer_bank,card_type,annual_fee,joining_fee,grace_period,cashback_percentage,sign-up_bonus,categories_for_rewards,issuer_bank_encoded,card_type_encoded,cashback_percentage_numeric,annual_fee_scaled,joining_fee_scaled
+Hdfc Millennia Credit Card,HDFC Bank,Regular,1000.0,1000.0,50 days,5% on online spends,"1,000 CashPoints on joining fee payment",Online Shopping,7,1,0.0,0.08,0.08
+Standard Chartered Manhattan Platinum,Standard Chartered,Premium,999.0,999.0,20 days,5% at supermarkets,"BookMyShow vouchers worth ?2,000","Lifestyle, Dining",16,0,0.0,0.07992,0.07992
+Yes Bank First Preferred Credit Card,Yes Bank,Premium,999.0,999.0,48 days,5% on online shopping,500 reward points on activation,"Shopping, Dining",18,0,0.0,0.07992,0.07992
+Hdfc Regalia Credit Card,HDFC Bank,Premium,0.0,0.0,50 days,,"Bonus of up to 15,000 points","Travel, Dining",7,0,0.0,0.0,0.0
+Kotak Royale Signature Credit Card,Kotak Mahindra Bank,Premium,999.0,0.0,30 days,,,-,13,0,0.0,0.07992,0.0
+Idfc First Power Plus Credit Card,IDFC FIRST Bank,Regular,0.0,0.0,30 days,,,Fuel,11,1,0.0,0.0,0.0
+Au Small Finance Bank Zenith+ Card,AU Small Finance Bank,Premium,4999.0,4999.0,50 days,5% on entertainment,"1,000 reward points on card activation","Entertainment, Dining",0,0,0.0,0.39992,0.39992
+Icici Amazon Pay Credit Card,ICICI Bank,Regular,0.0,0.0,50 days,5% on Amazon (Prime),,Online Shopping,9,1,0.0,0.0,0.0
+Sbi Simplyclick Credit Card,SBI,Regular,0.0,0.0,21 days,,Amazon gift voucher worth ?500,Online Shopping,15,1,0.0,0.0,0.0
+Federal Bank Celesta Credit Card,Federal Bank,Premium,750.0,750.0,45 days,5% on online shopping,"1,000 reward points on joining",Online Shopping,6,0,0.0,0.06,0.06
+Axis Bank Ace Credit Card,Axis Bank,Regular,0.0,0.0,45 days,5% on bill payments,,"Daily Spending, Utilities",2,1,0.0,0.0,0.0
+Dbs Vistara Infinite Credit Card,DBS Bank,Super Premium,10000.0,10000.0,48 days,,"10,000 Vistara Points on activation",Travel,5,2,0.0,0.8,0.8
+Kotak White Signature Credit Card,Kotak Mahindra Bank,Premium,2500.0,2500.0,30 days,,"1,000 reward points on activation","Lifestyle, Shopping",13,0,0.0,0.2,0.2
+Kotak 811 Dreamdifferent Credit Card,Kotak Mahindra Bank,Regular,0.0,0.0,30 days,1% on all spends,500 reward points on card activation,Daily Spending,13,1,0.0,0.0,0.0
+Unknown Card,Unknown Bank,Regular,0.0,0.0,,,,Miscellaneous,17,1,0.0,0.0,0.0
+Rbl Bank World Safari Credit Card,RBL Bank,Premium,3000.0,3000.0,30 days,,"4,000 reward points on joining",Travel,14,0,0.0,0.24,0.24
+Icici Sapphiro Credit Card,ICICI Bank,Premium,3500.0,0.0,50 days,,,Lifestyle,9,0,0.0,0.28,0.0
+Bpcl Sbi Card Octane,SBI,Regular,0.0,0.0,30 days,,Up to ?250 off on fuel transactions,Fuel,15,1,0.0,0.0,0.0
+Axis Bank Magnus Credit Card,Axis Bank,Premium,12500.0,12500.0,45 days,5% on Google Pay transactions,Complimentary airport lounge access,"Travel, Dining",2,0,0.0,1.0,1.0
+Indusind Bank Platinum Aura Edge,IndusInd Bank,Premium,7500.0,7500.0,45 days,,"1,000 reward points on card activation","Travel, Lifestyle",12,0,0.0,0.6000000000000001,0.6000000000000001
+Citibank Premiermiles Credit Card,Citibank,Premium,3000.0,3000.0,30 days,,,Travel,4,0,0.0,0.24,0.24
